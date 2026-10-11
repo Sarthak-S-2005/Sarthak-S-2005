@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hey there, I'm Sarthak S 👋
 
-<!--
-**Sarthak-S-2005/Sarthak-S-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./assets/ascii-portrait.svg" width="400" alt="Animated ASCII portrait of Sarthak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./assets/neofetch.svg" width="700" alt="My developer information terminal card" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Engineering student at Dr. Ambedkar Institute of Technology.
+- 💻 Interested in software development, machine learning, and Generative AI.
+- 🌱 Continuously learning Python, Java, SQL, and AI technologies.
+- 🛠️ Building projects to turn ideas into practical solutions.
+- 🎯 Focused on improving my programming and problem-solving skills.
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" alt="Python, Java, MySQL, Git, GitHub, and VS Code" />
+</p>
+
+## 📊 GitHub Contribution Activity
+
+<p align="center">
+  <img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution activity heatmap" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Sarthak-S-2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep learning, keep building, and keep growing."</i>
+</p>
