@@ -176,7 +176,7 @@
 <rect x="456" y="153" width="13" height="13" rx="3" fill="#161b22"><title>2026-03-26: contribution level 0</title></rect>
 <rect x="456" y="170" width="13" height="13" rx="3" fill="#161b22"><title>2026-03-27: contribution level 0</title></rect>
 <rect x="456" y="187" width="13" height="13" rx="3" fill="#161b22"><title>2026-03-28: contribution level 0</title></rect>
-<rect x="473" y="85" width="13" height="13" rx="3" fill="#39d353"><title>2026-03-29: contribution level 4</title></rect>
+<rect x="473" y="85" width="13" height="13" rx="3" fill="#26a641"><title>2026-03-29: contribution level 3</title></rect>
 <rect x="473" y="102" width="13" height="13" rx="3" fill="#161b22"><title>2026-03-30: contribution level 0</title></rect>
 <rect x="473" y="119" width="13" height="13" rx="3" fill="#161b22"><title>2026-03-31: contribution level 0</title></rect>
 <rect x="473" y="136" width="13" height="13" rx="3" fill="#161b22"><title>2026-04-01: contribution level 0</title></rect>
@@ -380,6 +380,7 @@
 <rect x="932" y="170" width="13" height="13" rx="3" fill="#161b22"><title>2026-10-09: contribution level 0</title></rect>
 <rect x="932" y="187" width="13" height="13" rx="3" fill="#161b22"><title>2026-10-10: contribution level 0</title></rect>
 <rect x="949" y="85" width="13" height="13" rx="3" fill="#39d353"><title>2026-10-11: contribution level 4</title></rect>
+<rect x="949" y="102" width="13" height="13" rx="3" fill="#161b22"><title>2026-10-12: contribution level 0</title></rect>
 <text x="25" y="95" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Sun</text>
 <text x="25" y="112" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Mon</text>
 <text x="25" y="129" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Tue</text>
