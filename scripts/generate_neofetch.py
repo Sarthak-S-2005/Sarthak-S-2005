@@ -10,9 +10,9 @@ PROFILE = {
     "GITHUB": "Sarthak-S-2005",
     "ROLE": "Aspiring Software Developer",
     "LOCATION": "India",
-    "LANGUAGES": "Python | Java | SQL",
+    "LANGUAGES": "Python | C++ | SQL",
     "INTERESTS": "Machine Learning | Generative AI",
-    "EDITOR": "VS Code",
+    "EDITOR": "VS Code | Pycharm | Antigravity",
     "STATUS": "Learning and building projects",
 }
 

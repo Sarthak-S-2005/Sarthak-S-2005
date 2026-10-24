@@ -97,9 +97,9 @@
 <text x="425" y="267" class="label">GITHUB</text><text x="575" y="267" class="value">Sarthak-S-2005</text>
 <text x="425" y="304" class="label">ROLE</text><text x="575" y="304" class="value">Aspiring Software Developer</text>
 <text x="425" y="341" class="label">LOCATION</text><text x="575" y="341" class="value">India</text>
-<text x="425" y="378" class="label">LANGUAGES</text><text x="575" y="378" class="value">Python | Java | SQL</text>
+<text x="425" y="378" class="label">LANGUAGES</text><text x="575" y="378" class="value">Python | C++ | SQL</text>
 <text x="425" y="415" class="label">INTERESTS</text><text x="575" y="415" class="value">Machine Learning | Generative AI</text>
-<text x="425" y="452" class="label">EDITOR</text><text x="575" y="452" class="value">VS Code</text>
+<text x="425" y="452" class="label">EDITOR</text><text x="575" y="452" class="value">VS Code | Pycharm | Antigravity</text>
 <text x="425" y="489" class="label">STATUS</text><text x="575" y="489" class="value">Learning and building projects</text>
 
     <path d="M425 505 H950" stroke="#30363d"/>
