@@ -16,7 +16,7 @@
 
 - 🎓 Engineering student at Dr. Ambedkar Institute of Technology.
 - 💻 Interested in software development, machine learning, and Generative AI.
-- 🌱 Continuously learning Python, Java, SQL, and AI technologies.
+- 🌱 Continuously learning Python, SQL, and AI technologies.
 - 🛠️ Building projects to turn ideas into practical solutions.
 - 🎯 Focused on improving my programming and problem-solving skills.
 
