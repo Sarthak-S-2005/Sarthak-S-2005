@@ -23,7 +23,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" alt="Python, Java, MySQL, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Python, MySQL, Git, GitHub, and VS Code" />
 </p>
 
 ## 📊 GitHub Contribution Activity
